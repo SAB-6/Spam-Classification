@@ -1,4 +1,4 @@
-# End to end Machine Learning Spam-classification
+# End to End Machine Learning Spam-classification
 <img src="https://github.com/SAB-6/Spam-Classification/blob/master/Read_me_files/spam_class.PNG"/>
 
 ## A cursory look at the web app
