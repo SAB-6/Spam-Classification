@@ -5,8 +5,8 @@ from flask import Flask, render_template, request
 app = Flask(__name__)
 
 # load preprocessor pipeline and model
-preprocessor = joblib.load('../models/preprocessor.pkl')
-model = joblib.load('../models/model.pkl')
+preprocessor = joblib.load('./models/preprocessor.pkl')
+model = joblib.load('./models/model.pkl')
 
 
 # web page that handles user's query and displays model results
