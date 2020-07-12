@@ -51,7 +51,7 @@
 - Thanks to <a href="https://archive.ics.uci.edu/ml/machine-learning-databases/00228/">UCI Machine Learning Repository</a> for making the data available for free.
 
 ## Web app link
-<a href="https://sms-spam-classifier-api.herokuapp.com/">Clik here to view the app</a>
+<a href="https://sms-spam-classifier-api.herokuapp.com/">Click here to view the app</a>
 
 ## Associated post
 
