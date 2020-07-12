@@ -37,8 +37,6 @@
 - scipy==1.5.1
 - six==1.15.0
 - threadpoolctl==2.1.0
-- toml==0.10.1
-- tqdm==4.47.0
 - Werkzeug==1.0.1
 - wget==3.2
 
@@ -51,6 +49,9 @@
 
 ## Acknowledgments
 - Thanks to <a href="https://archive.ics.uci.edu/ml/machine-learning-databases/00228/">UCI Machine Learning Repository</a> for making the data available for free.
+
+## Web app link
+<a href="https://sms-spam-classifier-api.herokuapp.com/">Clik here to view the app</a>
 
 ## Associated post
 
