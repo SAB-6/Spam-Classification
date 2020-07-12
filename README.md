@@ -1,5 +1,5 @@
 # Spam-Classification
-<img src="https://miro.medium.com/max/1840/1*hsyCZOYoGrX6BJsj4Lgrhg.png"/>
+<img src="https://github.com/SAB-6/Spam-Classification/blob/master/Read_me_files/spam_class.PNG"/>
 
 ## Introduction
 
