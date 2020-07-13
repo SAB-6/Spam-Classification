@@ -50,7 +50,11 @@
 ## Acknowledgments
 - Thanks to <a href="https://archive.ics.uci.edu/ml/machine-learning-databases/00228/">UCI Machine Learning Repository</a> for making the data available for free.
 
-## Web app link
+# Instruction on how to run the program locally from your computer
+- Navigate to the app directory
+- Tpye python run.py
+
+## To run the have globably visit the web app link provided below
 <a href="https://sms-spam-classifier-api.herokuapp.com/">Click here to view the app</a>
 
 ## Associated post
