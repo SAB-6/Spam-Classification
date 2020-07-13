@@ -52,7 +52,7 @@
 
 # Instruction on how to run the program locally from your computer
 - Navigate to the app directory then type: 
-    python run.py
+-   ### python run.py
 
 ## To run the have globably visit the web app link provided below
 <a href="https://sms-spam-classifier-api.herokuapp.com/">Click here to view the app</a>
