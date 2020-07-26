@@ -11,7 +11,7 @@
   * [Dependencies](#Dependencies)
   * [Data Processing](#Data-Processing)
   * [Exploratory data analysis](#Exploratory-data-analysis)
-  * [DSummary](#Summary)
+  * [Summary](#Summary)
   * [Acknowledgments](#Acknowledgments)
   * [Instruction on how to run the program locally from your computer](#Instruction-on-how-to-run-the-program-locally)
   * [Run app on the web](#Run-app-on-the-web)
@@ -57,24 +57,6 @@
 ├── run.py
 └── train.py
 ```
-├── app 
-│   ├── __init__.py
-│   ├── main.py
-│   ├── model
-│   ├── static
-│   └── templates
-├── config
-│   ├── __init__.py
-├── processing
-│   ├── __init__.py
-├── requirements.txt
-├── runtime.txt
-├── LICENSE
-├── Procfile
-├── README.md
-└── wsgi.py
-```
-
 ## Programming language
 - Python
 
