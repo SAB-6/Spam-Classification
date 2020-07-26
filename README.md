@@ -15,7 +15,11 @@
   * [Acknowledgments](#Acknowledgments)
   * [Instruction on how to run the program locally from your computer](#Instruction-on-how-to-run-the-program-locally)
   * [Run app on the web](#Run-app-on-the-web)
-  * [Technologies Used](#technologies-used)
+  * [Associated post](#Associated-post)
+  * [References](#References)
+  
+  
+  ## Associated post
 
 
 ## Introduction
