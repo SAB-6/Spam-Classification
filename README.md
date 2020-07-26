@@ -4,9 +4,23 @@
 ## A cursory look at the web app
 <img src="https://github.com/SAB-6/Spam-Classification/blob/master/Read_me_files/app_record.webp"/>
 
+## Table of Content
+  * [Introduction](#Introduction)
+  * [Directories structure](#Directories-structure)
+  * [Programming language](#Programming-language)
+  * [Dependencies](#Dependencies)
+  * [Data Processing](#Data-Processing)
+  * [Exploratory data analysis](#Exploratory-data-analysis)
+  * [DSummary](#Summary)
+  * [Acknowledgments](#Acknowledgments)
+  * [Instruction on how to run the program locally from your computer](#Instruction-on-how-to-run-the-program-locally)
+  * [Run app on the web](#Run-app-on-the-web)
+  * [Technologies Used](#technologies-used)
+
+
 ## Introduction
 
-## File directories
+## Directories structure
 ```
 ├── EDA
 │   └── Spam_classification.ipynb
@@ -42,6 +56,23 @@
 ├── requirements.txt
 ├── run.py
 └── train.py
+```
+├── app 
+│   ├── __init__.py
+│   ├── main.py
+│   ├── model
+│   ├── static
+│   └── templates
+├── config
+│   ├── __init__.py
+├── processing
+│   ├── __init__.py
+├── requirements.txt
+├── runtime.txt
+├── LICENSE
+├── Procfile
+├── README.md
+└── wsgi.py
 ```
 
 ## Programming language
@@ -90,10 +121,17 @@
 - Navigate to the app directory then type: 
 -   ### python run.py
 
-## To run the have globably visit the web app link provided below
+## Run app on the web
+- To run the have globably visit the web app link provided below
 <a href="https://sms-spam-classifier-api.herokuapp.com/">Click here to view the app</a>
 
+## Part of the dependencies
+![](https://forthebadge.com/images/badges/made-with-python.svg)
+[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://www.kindpng.com/picc/b/301/3012484.png" width=200>](https://aws.amazon.com/s3/)
+
+
 ## Associated post
+
 
 
 ## References
