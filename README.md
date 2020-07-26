@@ -7,6 +7,7 @@
 ## Introduction
 
 ## File directories
+"""
 ├── EDA
 │   └── Spam_classification.ipynb
 ├── Read_me_files
@@ -41,6 +42,7 @@
 ├── requirements.txt
 ├── run.py
 └── train.py
+"""
 
 ## Programming language
 - Python
