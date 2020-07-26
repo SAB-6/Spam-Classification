@@ -17,10 +17,7 @@
   * [Run app on the web](#Run-app-on-the-web)
   * [Associated post](#Associated-post)
   * [References](#References)
-  
-  
-  ## Associated post
-
+ 
 
 ## Introduction
 
