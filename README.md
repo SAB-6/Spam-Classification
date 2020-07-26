@@ -6,7 +6,41 @@
 
 ## Introduction
 
-## Files
+## File directories
+├── EDA
+│   └── Spam_classification.ipynb
+├── Read_me_files
+│   ├── app_record.gif
+│   ├── app_record.webp
+│   ├── spam_class.PNG
+├── app
+│   ├── __init__.py
+│   ├── __init__.py
+├── data
+│   ├── SMSSpamCollection
+│   ├── process.py
+│   └── readme
+├── models
+│   ├── model.pkl
+│   ├── model.pkl
+│   └──  preprocessor.pkl
+├── static
+│   ├── spam.webp
+│   ├── spam_id.ico
+│   ├── styles.css
+│   └──  thumb_up.webp
+├── templates
+│   ├── go.html
+│   └── master.html
+│
+├── Procfile
+├── README.md
+├── Procfile
+├── process.py
+├── README.md
+├── requirements.txt
+├── run.py
+└── train.py
 
 ## Programming language
 - Python
