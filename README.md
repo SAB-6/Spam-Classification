@@ -105,7 +105,7 @@
 -   ### python run.py
 
 ## Run app on the web
-- To run the app globaly visit the web app link provided below
+- To run the app globally visit the web app link provided below
 <a href="https://sms-spam-classifier-api.herokuapp.com/">Click here to view the app</a>
 
 ## Part of the dependencies
